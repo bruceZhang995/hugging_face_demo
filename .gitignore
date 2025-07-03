@@ -1,6 +1,7 @@
 # 忽略node_modules目录
-/models
 .idea/
+/models
+
  
 # 忽略Logs
 #logs
